@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="[https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png](https://github.com/ibrahimyousfi/ibrahimyousfi/blob/main/head.gif?raw=true)" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+![My GIF](https://raw.githubusercontent.com/ibrahimyousfi/ibrahimyousfi/main/head.gif)
 </div>
 
 ## 🌟 About Me
