@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-![My GIF](https://raw.githubusercontent.com/ibrahimyousfi/ibrahimyousfi/main/head.gif)
 <img src="https://raw.githubusercontent.com/ibrahimyousfi/ibrahimyousfi/main/head.gif" alt="GIF">
 
 </div>
