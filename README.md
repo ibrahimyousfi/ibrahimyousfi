@@ -131,13 +131,6 @@
 - Data visualization design
 - Brand identity development
 
----
-
-## 📈 Activity Timeline
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimyousfi&theme=react-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true" alt="Activity Graph">
-</div>
 
 ---
 
